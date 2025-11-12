@@ -24,5 +24,8 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 ✅ Clear and error handling functionality  
 
 ---
+## 🖥️ Screenshot
 
-"C:\Users\saich\OneDrive\Pictures\Screenshots\Screenshot 2025-11-12 222808.png"
+![Calculator Preview](Calculator.png)
+
+
